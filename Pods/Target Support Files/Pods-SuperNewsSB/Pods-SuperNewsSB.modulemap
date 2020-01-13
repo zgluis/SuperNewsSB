@@ -1,0 +1,6 @@
+framework module Pods_SuperNewsSB {
+  umbrella header "Pods-SuperNewsSB-umbrella.h"
+
+  export *
+  module * { export * }
+}
